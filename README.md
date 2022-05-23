@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Rail
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Talgatovich/Talgatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

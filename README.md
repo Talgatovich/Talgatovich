@@ -1,6 +1,11 @@
 <h1 align="center">Hi there! Welcome to my GitHub profile
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### My contacts:
+Telegram, WhatsApp : +79297252283 <br>
+e-mail: rtibyatov@gmail.com
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
